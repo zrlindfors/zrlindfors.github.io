@@ -4,4 +4,4 @@ description: GOAT
 ---
 
 Here is the best basketball player ever:
-- [HTML Version](imgres.html)
+- [Click to see a GOAT](download.jpg)
