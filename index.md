@@ -4,4 +4,4 @@ description: The Subtitle
 ---
 
 Go Lakers:
-- Kobe Bryant
+- [Kobe Bryant](/Lakers/index.md)
