@@ -1,6 +1,6 @@
 ---
-title: See, I can change the title!!!
-description: The Subtitle
+title: I'm a beast
+description: Ya hear me?
 ---
 
 ![My Picture](Lindfors_Zackary.jpg)
